@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_more.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_more.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\right_list_icon.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\right_list_icon.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_user.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_user.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_download.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_download.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_set.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_set.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_return1.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_return1.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_return.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_return.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_weather.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_weather.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_night.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_night.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_search.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_search.png"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\title_scan.png",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\mipmap-xxxhdpi\\title_scan.png"
+    }
+]

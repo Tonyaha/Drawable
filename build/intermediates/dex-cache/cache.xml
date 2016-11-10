@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b75478e60f141278ddf249737133170573da15fb">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b7f18a47b0ed6d0a523f512b2789a20536d5e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_5895d0a6dad8b52d0be6c9fece9551f836b59829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6f5cf2fe6d5c4692c7ca198e1cbe7e911b6a8fcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8e012009969fcb449c108e23736f838f03f91eaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="544772d7c917591d53e0639b80627a901feb4e38">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0cced46ff386a6bc558b9a344b515509e799e7e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c530074770ecfd646cd843b8533929a75da59928\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_faec37e46d2ada226145a6f6e6b8ba05084a4b0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_eb3222fd12d59ee7683448f0bda71d2c1a9c3609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_f0ec5f29eea277637a52ea3caff83e5e8a7b1359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_2bc481c04886c0f7fda4c83e0db72dd8cecd5fd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c02f57b5e19553d94e06a72d8597a62a7bd073f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_6c918ad6a40345d1d92f5a063eed3a411d0831ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_a033684cefad757232bd9c80b2ebc99ead052e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_5e6d4073be4542dae02ebf0a4085356064a4cb73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_49541904913f15e3ec9ac0d7d8c5ed4fd64c9e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_010fbf7d9f90fe309181bc882b09b560d8c68a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_503abb418d3158719cc973ce57c74cd836e68ca3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android Studio\studio\Drawable\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="G:\Android Studio\studio\Drawable\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_f1b5ef323d469f1c44e597476000768225d69353\classes.dex" />
+    </item>
+
+</items>

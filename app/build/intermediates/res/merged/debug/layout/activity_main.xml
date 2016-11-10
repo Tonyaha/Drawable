@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.drawable.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:weightSum="12">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_gray"
+                android:text="弹出对话框" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:orientation="vertical"
+            android:weightSum="10">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/seek_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="缩放图片" />
+
+                <SeekBar
+                    android:id="@+id/seek_Bar"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:max="10"
+                    android:progress="1" />
+
+            </LinearLayout>
+
+            <ScrollView
+                android:id="@+id/seek_scrollView"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/btn_dialog"
+                android:layout_weight="9"
+                android:scrollIndicators="end|right">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageButton
+                        android:id="@+id/seek_imageView"
+                        android:layout_width="10dp"
+                        android:layout_height="0dp"
+                        android:background="@drawable/btn_gray"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bcolour" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="6dp" />
+
+                    <ImageButton
+                        android:id="@+id/seek_imageView2"
+                        android:layout_width="10dp"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/btn_gray"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/blistview" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="6dp" />
+
+                    <ImageButton
+                        android:id="@+id/calculator_imageView"
+                        android:layout_width="10dp"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/btn_gray"
+                        android:padding="0.5dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bcalculator" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="6dp" />
+
+                    <ImageButton
+                        android:id="@+id/tab_imageView"
+                        android:layout_width="10dp"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/btn_gray"
+                        android:padding="0.5dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/aa" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/btn_gray"
+                android:gravity="center"
+                android:text="TextView" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include
+        layout="@layout/menu_left_layout"
+        android:layout_width="180dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:clickable="true" />
+
+    <include
+        layout="@layout/menu_right_layout"
+        android:layout_width="260dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:clickable="true" />
+
+</android.support.v4.widget.DrawerLayout>

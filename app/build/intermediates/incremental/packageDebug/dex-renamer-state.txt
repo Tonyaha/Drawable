@@ -1,0 +1,7 @@
+#Sat Nov 05 15:29:19 CST 2016
+base.0=G\:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0cced46ff386a6bc558b9a344b515509e799e7e6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9b7f18a47b0ed6d0a523f512b2789a20536d5e7e\\classes.dex
+base.1=G\:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9b7f18a47b0ed6d0a523f512b2789a20536d5e7e
+file.0=G\:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0cced46ff386a6bc558b9a344b515509e799e7e6\\classes.dex

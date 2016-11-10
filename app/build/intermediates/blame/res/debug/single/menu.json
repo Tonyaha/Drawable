@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_context.xml",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\menu\\menu_context.xml"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\menu\\colour_menu.xml",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\menu\\colour_menu.xml"
+    },
+    {
+        "merged": "G:\\Android Studio\\studio\\Drawable\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "G:\\Android Studio\\studio\\Drawable\\app\\src\\main\\res\\menu\\main_menu.xml"
+    }
+]
