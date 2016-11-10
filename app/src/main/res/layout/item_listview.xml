@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="horizontal"
+    android:weightSum="10"
+    android:background="#ffffff"
+    android:clickable="false">
+
+
+    <ImageView
+        android:id="@+id/list_image1"
+        android:layout_width="0dp"
+        android:layout_height="36dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="6dp"
+        android:layout_weight="1"
+        android:src="@mipmap/ic_launcher"
+        android:clickable="true" />
+
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/list_text1"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:hint="姓名"
+        android:textSize="15dp"
+        android:layout_marginLeft="6dp"
+        android:background="#ffffff"/>
+
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:inputType="phone"
+        android:layout_marginLeft="6dp"
+        android:ems="10"
+        android:id="@+id/list_text2"
+        android:layout_weight="6"
+        android:gravity="center"
+        android:hint="电话号码"
+        android:textSize="15dp"
+        android:background="#ffffff" />
+
+    <CheckBox
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/checkBox1" />
+</LinearLayout>
